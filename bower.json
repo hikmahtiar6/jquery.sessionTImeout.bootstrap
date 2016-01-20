@@ -1,0 +1,18 @@
+{
+  "name": "jquery.sessionTimeout.bootstrap",
+  "homepage": "https://github.com/hikmahtiar6/jquery.sessionTimeout.bootstrap",
+  "authors": [
+    "Hikmahtiar <hikmahtiar.cool@gmail.com>"
+  ],
+  "description": "this is plugin session timeout with bootstrap",
+  "main": "",
+  "moduleType": [],
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}
